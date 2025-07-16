@@ -1,4 +1,4 @@
-## ✅ Submission Result
+# ✅ Tic-Tac-Toe - Submission Result
 
 | Test Type | Result |
 |-----------|--------|

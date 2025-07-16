@@ -1,4 +1,4 @@
-# ✅ Degrees - Submission Result
+# ✅ Knights - Submission Result
 
 | Test Type | Result |
 |-----------|--------|
@@ -6,4 +6,4 @@
 | style50   | 1.00   |
 | Status    | ✅ Passed all tests |
 
-![Submission Result](degrees_result.png)
+![Submission Result](knights_result.png)
